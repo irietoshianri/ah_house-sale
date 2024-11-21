@@ -1,0 +1,18 @@
+# Composer
+/vendor/
+/composer.lock
+
+# Cache
+/app/cache/
+/app/proxy/
+
+# Logs
+/app/log/
+
+# Uploads
+/html/upload/
+
+# IDE設定やOSファイル
+.idea/
+.DS_Store
+Thumbs.db
